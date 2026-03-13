@@ -3,4 +3,4 @@ PolarBear is a simple program made to use AI to teach personnel on companies etc
 
 Project is still under construction ⛏⚠
 
-preview_image.png
+[preview](preview_image.png)
